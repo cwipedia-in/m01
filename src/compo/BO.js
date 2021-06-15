@@ -48,10 +48,18 @@ return(
             </div>
           </div>
 
+          <div className="row gx-3 ">
+            <div className="col dash">
+             <a href="https://www.cwipedia.in/2021/04/msbte-manual-i-scheme.html"><div className="p-3 border1 ">Manuals</div></a>
+            </div>
+            <div className="col dash">
+              <a href="https://www.cwipedia.in/search/label/MSBTE/"><div className="p-3 border1">MSBTE</div></a>
+            </div>
+          </div>
 
           <div className="row gx-3 ">
             <div className="col dash">
-             <a href="https://www.cwipedia.in/2021/04/msbte-manual-i-scheme.html"><div className="p-3 border1 ">Manual</div></a>
+             <a href="https://www.cwipedia.in/search/label/Com"><div className="p-3 border1 ">Computer</div></a>
             </div>
             <div className="col dash">
               <a href="https://www.cwipedia.in/"><div className="p-3 border1">MORE</div></a>
