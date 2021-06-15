@@ -9,7 +9,7 @@ return(
         <div className="card-body">
           <h5 className="h1">MSBTE MCQ</h5>
           <p className="card-text">Download Study Resources | DIPLOMA Engineering PORTAl for MSBTE MCQ Question Banks</p>
-          <a href="https://www.cwipedia.ins" className="btn btn-primary">#HOME</a>
+          <a href="https://www.cwipedia.in" className="btn btn-primary">#HOME</a>
           <br/>
          
         </div>
